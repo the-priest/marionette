@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+.vscode/
+.idea/
+# user save data
+saves/
+*.save
